@@ -1,0 +1,21 @@
+My first game in Haskell
+========================
+
+SUMMER! that magic time when you can go to the beach and do basically nothing
+
+instead you're stuck in your room learning Haskell
+
+FML <3
+
+THE GAME
+--------
+
+the game picks a number from 0 to 100, you say "u" up (x >= 50) or "d" down (x < 50)
+guess it right 5 times in a row and you ARE FUCKED UP LIKE ME GO TO THE BEACH IS SUMMER FOR FUCKSAKE
+
+How to compile
+--------------
+
+ghc --make main.hs
+
+
